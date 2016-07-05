@@ -1,0 +1,65 @@
+[ 
+{ 
+"idItem":1,
+"nombre":"Capuchino ",
+"idEmpresa":1,
+"status":1,
+"imagen":"http://i.imgbox.com/9OtProBK.jpg"
+},
+{ 
+"idItem":2,
+"nombre":"Chocolate",
+"idEmpresa":1,
+"status":1,
+"imagen":"http://i.imgbox.com/U4kcMYGA.jpg"
+},
+{ 
+"idItem":3,
+"nombre":"Té Chai ",
+"idEmpresa":1,
+"status":1,
+"imagen":"http://i.imgbox.com/IZ02KDi8.jpg"
+},
+{ 
+"idItem":4,
+"nombre":"Té Natural",
+"idEmpresa":1,
+"status":1,
+"imagen":"http://i.imgbox.com/s4FlQ2Vg.jpg"
+},
+{ 
+"idItem":5,
+"nombre":"Café Americano ",
+"idEmpresa":1,
+"status":1,
+"imagen":"http://i.imgbox.com/TPhLxeXY.jpg"
+},
+{ 
+"idItem":6,
+"nombre":"Atole",
+"idEmpresa":1,
+"status":1,
+"imagen":"http://i.imgbox.com/3E20m2lx.jpg"
+},
+{ 
+"idItem":7,
+"nombre":"Champurrado ",
+"idEmpresa":1,
+"status":1,
+"imagen":"http://i.imgbox.com/kJbew8GA.jpg"
+},
+{ 
+"idItem":8,
+"nombre":"Ponche",
+"idEmpresa":1,
+"status":1,
+"imagen":"http://i.imgbox.com/5YwjEie0.jpg"
+},
+{ 
+"idItem":9,
+"nombre":"Espresso ",
+"idEmpresa":1,
+"status":1,
+"imagen":"http://i.imgbox.com/E2EOvJ4m.jpg"
+}
+]
