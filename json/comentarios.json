@@ -1,0 +1,37 @@
+[ 
+{ 
+"idSugerencia":1,
+"nombre":"Daniel",
+"email":"juanarteagadaniel@hotmail.com",
+"comentario":"El servicio es muy bueno y la comida genial.",
+"idEmpresa":1
+},
+{ 
+"idSugerencia":2,
+"nombre":"Pablo",
+"email":"pablosanchez@gmail.com",
+"comentario":"Definitivamente me gustaría volver a comer aquí.",
+"idEmpresa":1
+},
+{ 
+"idSugerencia":3,
+"nombre":"Sofía",
+"email":"sofia_fer@hotmail.com",
+"comentario":"El lugar tiene buen ambiente y a mi familia le encanto. Seguro volvemos pronto",
+"idEmpresa":1
+},
+{ 
+"idSugerencia":4,
+"nombre":"Luis",
+"email":"luisao@hotmail.com",
+"comentario":"Me encantaron todas las bebidas y la comida era deliciosa",
+"idEmpresa":1
+},
+{ 
+"idSugerencia":5,
+"nombre":"Carlos",
+"email":"juanarteagadaniel@hotmail.com",
+"comentario":"La comida es excelente y me gusto mucho el lugar",
+"idEmpresa":1
+} 
+]

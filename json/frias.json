@@ -1,0 +1,37 @@
+[
+{ 
+"idItem":10,
+"nombre":"Frappé",
+"idEmpresa":1,
+"status":1,
+"imagen":"http://i.imgbox.com/GExM5BNp.jpg"
+},
+{ 
+"idItem":11,
+"nombre":"Smoothie",
+"idEmpresa":1,
+"status":1,
+"imagen":"http://i.imgbox.com/3JGXjnlU.jpg"
+},
+{ 
+"idItem":12,
+"nombre":"Soda Italiana ",
+"idEmpresa":1,
+"status":1,
+"imagen":"http://i.imgbox.com/xWn8nTMO.jpg"
+},
+{ 
+"idItem":13,
+"nombre":"Té Helado ",
+"idEmpresa":1,
+"status":1,
+"imagen":"http://i.imgbox.com/AX1UyVDA.jpg"
+},
+{ 
+"idItem":14,
+"nombre":"Tisana",
+"idEmpresa":1,
+"status":1,
+"imagen":"http://i.imgbox.com/gvFtGdAW.jpg"
+}
+]
