@@ -642,11 +642,51 @@ margin: auto;
 #footer hr{
 	border:0.5px dashed #726688;
 }
-#footer .row:last-of-type{
+#footer .row:nth-of-type(2){
 	color: #9ba3ac;
 	font-size: 16px;
 	text-align: center;
 }
+#link-chailate {
+	background: #242424;
+	height: 85px;
+	width: 100%;
+}
+#link-chailate > .row{
+	background-color: #242424 !important;
+	width: 100%;
+	padding: 10px;
+	margin:0px;
+}
+#link-chailate  div > div > span > a > img{
+	width: 62px;
+	height: 70px;
+}
+
+#link-chailate div > div {
+	
+	height: 80px;
+	width: 100%;
+}
+#link-chailate  div > div > p{
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 5px;
+	margin-bottom: 0px;
+	top: 50%;
+	left: 7%;
+	--webkit-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	-o-transform: translateY(-50%);
+	transform: translateY(-50%);
+	color: #FEFEFE;
+	font-size: 15px;
+
+}
+#link-chailate div > div > p > a{	
+	color: #FEFEFE;
+}
+ 
 .retraso{
 	animation-delay: 1s;
 }
